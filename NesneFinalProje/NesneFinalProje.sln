@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NesneFinal", "NesneFinal\NesneFinal.csproj", "{4466F1C7-23FB-4D94-922A-54FF5D8D53CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4466F1C7-23FB-4D94-922A-54FF5D8D53CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4466F1C7-23FB-4D94-922A-54FF5D8D53CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4466F1C7-23FB-4D94-922A-54FF5D8D53CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4466F1C7-23FB-4D94-922A-54FF5D8D53CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14765C8F-BBBE-474F-B7DC-896E7B3D6F06}
+	EndGlobalSection
+EndGlobal
